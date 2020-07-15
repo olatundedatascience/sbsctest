@@ -1,0 +1,13 @@
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\bin\Debug\netcoreapp3.1\sbscassessment.exe
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\bin\Debug\netcoreapp3.1\sbscassessment.deps.json
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\bin\Debug\netcoreapp3.1\sbscassessment.runtimeconfig.json
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\bin\Debug\netcoreapp3.1\sbscassessment.runtimeconfig.dev.json
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\bin\Debug\netcoreapp3.1\sbscassessment.dll
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\bin\Debug\netcoreapp3.1\sbscassessment.pdb
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\obj\Debug\netcoreapp3.1\sbscassessment.csprojAssemblyReference.cache
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\obj\Debug\netcoreapp3.1\sbscassessment.csproj.CoreCompileInputs.cache
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\obj\Debug\netcoreapp3.1\sbscassessment.AssemblyInfoInputs.cache
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\obj\Debug\netcoreapp3.1\sbscassessment.AssemblyInfo.cs
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\obj\Debug\netcoreapp3.1\sbscassessment.dll
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\obj\Debug\netcoreapp3.1\sbscassessment.pdb
+C:\Users\raimi.aliu\Desktop\tunde\py_progs\codewithmosh\second\sbsc_assess\sbscassessment\obj\Debug\netcoreapp3.1\sbscassessment.genruntimeconfig.cache
